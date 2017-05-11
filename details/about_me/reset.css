@@ -35,3 +35,14 @@ section aside table tr th{
 section aside table tr h4{
     color: black;
 }
+.panel-heading{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+}
+ol{
+    text-align: center;
+}
+.panel-footer{
+    text-align: center;
+}

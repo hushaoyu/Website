@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>关于我</title>
     <link rel="stylesheet" href="../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../bootstrap/css/bootstrap.min.css">
@@ -10,6 +12,7 @@
     <!--javascript-->
     <script src="../../js/jquery.min.js"></script>
     <script src="../../bootstrap/js/bootstrap.min.js"></script>
+    <!--<script type="text/javascript" src="http://cdn.webfont.youziku.com/wwwroot/js/wf/youziku.api.min.js"></script>-->
 </head>
 <body>
 <!--导航条-->
@@ -26,7 +29,6 @@
                 <li><a href="#" data-toggle="dropdown" class="dropdown-toggle">展示风格<span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">简历</a></li>
-                        <li><a href="#">滚动字幕</a></li>
                         <li><a href="report/me_video.html" target="_blank">视频</a></li>
                         <li><a href="report/report.html" target="_blank">成绩单</a></li>
                     </ul>
@@ -46,17 +48,17 @@
     </div>
 </div>
 
-<!--主体三列布局-->
-<section class="container-fluid">
+<!--主体两列布局-->
+<section class="container">
     <div class="row">
         <!--左侧列功能选项列表-->
-        <aside class="col-lg-3">
+        <aside class="col-lg-4">
             <!--字体风格-->
             <ol class="breadcrumb">
                 <li><span>字体风格</span></li>
                 <hr>
-                <li><span>汉仪</span></li>
-                <li><a href="#">国强行书</a></li>
+                <li><span>汉仪 </span></li>
+                <li><a href="#">国行强书</a></li>
                 <li><a href="#">雪君体</a></li>
                 <li><a href="#">默认</a></li>
             </ol>
@@ -71,17 +73,33 @@
                 <li class="demo_color"><a href="#">危险红</a></li>
                 <li class="demo_color"><a href="#">无样式</a></li>
             </ol>
+            <!--字体大小-->
+            <ol class="breadcrumb">
+                <li><span>字体大小</span></li>
+                <br><br>
+                <li><a href="#">大</a></li>
+                <li><a href="#">默认</a></li>
+            </ol>
+            <!--字体颜色-->
+            <ol class="breadcrumb">
+                <li><span>字体颜色</span></li>
+                <br><br>
+                <li><a href="#">蓝绿</a></li>
+                <li><a href="#">默认</a></li>
+                <li><a href="#">橙红</a></li>
+            </ol>
         </aside>
-        <!--中间列主体内容显示-->
-        <aside class="col-lg-7 second">
-            <div class="panel panel-default">
-                <div class="panel-heading">个人简介</div>
+
+        <!--右侧列主体内容显示-->
+        <aside class="col-lg-8 second">
+            <div class="panel panel-default row">
+                <div class="panel-heading">胡绍玉的个人简历</div>
                 <div class="panel-body">
                     <table class="table table-bordered table-hover">
                         <tbody>
                         <tr>
                             <td>姓名</td>
-                            <td>唐飞和唐菲菲</td>
+                            <td>胡绍玉</td>
                             <td>性别</td>
                             <td>男</td>
                             <td>民族</td>
@@ -152,23 +170,6 @@
                 </div>
                 <div class="panel-footer"><span class="fa fa-user-circle-o"></span> 唐飞和唐菲菲</div>
             </div>
-        </aside>
-        <!--右侧列列表-->
-        <aside class="col-lg-2">
-            <ol class="breadcrumb">
-                <li><span>字体大小</span></li>
-                <br><br>
-                <li><a href="#">超大</a></li>
-                <li><a href="#">大</a></li>
-                <li><a href="#">默认</a></li>
-            </ol>
-            <ol class="breadcrumb">
-                <li><span>字体颜色</span></li>
-                <br><br>
-                <li><a href="#">蓝绿</a></li>
-                <li><a href="#">默认</a></li>
-                <li><a href="#">橙红</a></li>
-            </ol>
         </aside>
     </div>
 </section>

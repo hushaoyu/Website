@@ -22,14 +22,14 @@
         $(demo).addClass(demo_style[index-2]);
     });
     //字体大小
-    $('section aside:eq(2) ol:eq(0) li').click(function(){
+    $('section aside:eq(0) ol:eq(2) li').click(function(){
         var index = $(this).index();
         //alert(index);
-        var font_size = ['26px','21px','14px'];
+        var font_size = ['21px','14px'];
         $(whole).css('font-size',font_size[index-3]);
     });
     //字体颜色
-    $('section aside:eq(2) ol:eq(1) li').click(function(){
+    $('section aside:eq(0) ol:eq(3) li').click(function(){
         var index = $(this).index();
         //alert(index);
         var font_color = [['blue','green'],['rgba(10, 10, 10, 0.57)','rgba(0, 100, 255, 0.709804)'],['orange','red']];
@@ -40,4 +40,5 @@
     $('#reload').click(function(){
         location.reload();
     });
+
 })(jQuery);
