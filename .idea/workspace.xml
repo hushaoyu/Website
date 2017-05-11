@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="606fb1aa-9087-4f92-b53d-f94e3b30e724" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="dgfp_4_cuz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.5023585">
-              <caret line="135" column="147" selection-start-line="135" selection-start-column="147" selection-end-line="135" selection-end-column="147" />
+              <caret line="135" column="138" selection-start-line="135" selection-start-column="138" selection-end-line="135" selection-end-column="138" />
               <folding>
                 <element signature="n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -47,7 +48,7 @@
                 <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#7;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#14365#14458#0" expanded="false" />
+                <element signature="e#14364#14457#0" expanded="false" />
                 <element signature="n#div#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -56,7 +57,7 @@
                 <element signature="n#div#6;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#7;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#8;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#20185#20257#0" expanded="false" />
+                <element signature="e#20184#20256#0" expanded="false" />
                 <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -66,6 +67,16 @@
                 <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="116.03571">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,6 +154,7 @@
         <option value="$PROJECT_DIR$/details/about_me/main.js" />
         <option value="$PROJECT_DIR$/details/about_me/report/me_video.html" />
         <option value="$PROJECT_DIR$/details/study/follow/accordion/index.html" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -499,7 +511,13 @@
       <option name="project" value="LOCAL" />
       <updated>1494473197968</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="to update file README.md">
+      <created>1494473242415</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1494473242415</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -553,13 +571,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/details/study/study_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="86" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/details/about_me/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -909,10 +920,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="116.03571">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5023585">
-          <caret line="135" column="147" selection-start-line="135" selection-start-column="147" selection-end-line="135" selection-end-column="147" />
+          <caret line="135" column="138" selection-start-line="135" selection-start-column="138" selection-end-line="135" selection-end-column="138" />
           <folding>
             <element signature="n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -932,7 +951,7 @@
             <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#14365#14458#0" expanded="false" />
+            <element signature="e#14364#14457#0" expanded="false" />
             <element signature="n#div#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -941,7 +960,7 @@
             <element signature="n#div#6;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#8;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#20185#20257#0" expanded="false" />
+            <element signature="e#20184#20256#0" expanded="false" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
