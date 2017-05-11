@@ -481,7 +481,13 @@
       <option name="project" value="LOCAL" />
       <updated>1494472746202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="to update file README.md">
+      <created>1494472797717</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1494472797717</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
